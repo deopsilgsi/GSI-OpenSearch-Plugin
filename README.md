@@ -1,0 +1,1 @@
+# GSI-OpenSearch-Plugin
